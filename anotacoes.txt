@@ -1,0 +1,11 @@
+#acessar o site
+https://www.kabum.com.br/computadores/pc/pc-gamer
+#extrair todos os títulos
+#extrair todos os preços
+#inserir os títulos e preços na planilha
+
+
+//tag[@atributo='valor']
+
+//span[@class='sc-d79c9c3f-0 nlmfp sc-cdc9b13f-16 eHyEuD nameCard']
+//span[@class='sc-620f2d27-2 bMHwXA priceCard']
